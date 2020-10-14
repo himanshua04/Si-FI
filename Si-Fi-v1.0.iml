@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration />
+    </facet>
+    <facet type="apk" name="APK">
+      <configuration>
+        <option name="APK_PATH" value="$MODULE_DIR$/Si-Fi-v1.0.apk" />
+        <option name="APP_PACKAGE" value="no.birkett.quietshare" />
+        <option name="SETUP_ISSUES">
+          <list>
+            <SetupIssue>
+              <option name="severity" value="WARNING" />
+              <option name="category" value="DEBUG_SYMBOLS_MISSING" />
+              <option name="extraInfo" value="" />
+            </SetupIssue>
+          </list>
+        </option>
+        <option name="NATIVE_LIBRARIES">
+          <list>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/x86/libcomplex.so" />
+                  <option value="$MODULE_DIR$/lib/x86_64/libcomplex.so" />
+                  <option value="$MODULE_DIR$/lib/arm64-v8a/libcomplex.so" />
+                  <option value="$MODULE_DIR$/lib/armeabi-v7a/libcomplex.so" />
+                </list>
+              </option>
+              <option name="name" value="libcomplex.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/x86/libfec.so" />
+                  <option value="$MODULE_DIR$/lib/x86_64/libfec.so" />
+                  <option value="$MODULE_DIR$/lib/arm64-v8a/libfec.so" />
+                  <option value="$MODULE_DIR$/lib/armeabi-v7a/libfec.so" />
+                </list>
+              </option>
+              <option name="name" value="libfec.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/x86/libjansson.so" />
+                  <option value="$MODULE_DIR$/lib/x86_64/libjansson.so" />
+                  <option value="$MODULE_DIR$/lib/arm64-v8a/libjansson.so" />
+                  <option value="$MODULE_DIR$/lib/armeabi-v7a/libjansson.so" />
+                </list>
+              </option>
+              <option name="name" value="libjansson.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/x86/libliquid.so" />
+                  <option value="$MODULE_DIR$/lib/x86_64/libliquid.so" />
+                  <option value="$MODULE_DIR$/lib/arm64-v8a/libliquid.so" />
+                  <option value="$MODULE_DIR$/lib/armeabi-v7a/libliquid.so" />
+                </list>
+              </option>
+              <option name="name" value="libliquid.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/x86/libquiet-jni.so" />
+                  <option value="$MODULE_DIR$/lib/x86_64/libquiet-jni.so" />
+                  <option value="$MODULE_DIR$/lib/arm64-v8a/libquiet-jni.so" />
+                  <option value="$MODULE_DIR$/lib/armeabi-v7a/libquiet-jni.so" />
+                </list>
+              </option>
+              <option name="name" value="libquiet-jni.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/x86/libquiet.so" />
+                  <option value="$MODULE_DIR$/lib/x86_64/libquiet.so" />
+                  <option value="$MODULE_DIR$/lib/arm64-v8a/libquiet.so" />
+                  <option value="$MODULE_DIR$/lib/armeabi-v7a/libquiet.so" />
+                </list>
+              </option>
+              <option name="name" value="libquiet.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/x86/libquiet_lwip.so" />
+                  <option value="$MODULE_DIR$/lib/x86_64/libquiet_lwip.so" />
+                  <option value="$MODULE_DIR$/lib/arm64-v8a/libquiet_lwip.so" />
+                  <option value="$MODULE_DIR$/lib/armeabi-v7a/libquiet_lwip.so" />
+                </list>
+              </option>
+              <option name="name" value="libquiet_lwip.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+          </list>
+        </option>
+        <option name="JAVA_SOURCE_FOLDER_PATHS">
+          <set />
+        </option>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/lib" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 25 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
